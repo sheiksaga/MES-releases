@@ -1,0 +1,11 @@
+{
+  "version": "1.1.6",
+  "notes": "Per-monitor window position, slider applies on release, reset button; fix local AI (runtime download, llama-server flags) and switch to Qwen3.5-0.8B / Qwen3-1.7B",
+  "pub_date": "2026-11-08T09:25:02.856Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVFNbTIzMkhqZXJVaG4wa3dSdmdiUnpZaTNKcFlvakQrRURhS2oyclJUcjcva1A2NlJEZWxBQ0pjZGFueTRSZHYxQjlwTE1QV284bFgrU1UybE40MHc1aEdVZFM4Q2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDgyNjU2CWZpbGU6TUVTXzEuMS42X3g2NC1zZXR1cC5leGUKd09hWWdNZUFUeGwwVlVWRlVKc3E1b0oxNkpvL2tpdDlOTTBNSmFxM2V6blRKREY2cUdaa0YreGIwbXNKNlMyNk85c1ZmTnRIZjc0bXJEV3pSM3krQVE9PQo=",
+      "url": "https://api.github.com/repos/sheiksaga/MES-releases/releases/assets/721822644"
+    }
+  }
+}
